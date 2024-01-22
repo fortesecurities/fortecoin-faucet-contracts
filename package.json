@@ -1,7 +1,7 @@
 {
-  "name": "fortecoin-contracts",
+  "name": "fortecoin-faucet-contracts",
   "version": "1.0.0",
-  "description": "faucet-contracts",
+  "description": "fortecoin-faucet-contracts",
   "main": "index.js",
   "scripts": {},
   "author": "Quentin ADAM",
