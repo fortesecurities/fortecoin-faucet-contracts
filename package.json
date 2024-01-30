@@ -1,5 +1,5 @@
 {
-  "name": "fortecoin-faucet-contracts",
+  "name": "@fortesecurities/fortecoin-faucet-contracts",
   "version": "1.0.0",
   "description": "fortecoin-faucet-contracts",
   "main": "index.js",
